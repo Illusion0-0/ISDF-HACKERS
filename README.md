@@ -1,2 +1,2 @@
 # ISDF-HACKERS
-git_revert_command}
+tum sab hacker hi to ho :D
