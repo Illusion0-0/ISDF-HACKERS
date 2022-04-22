@@ -1,2 +1,2 @@
 # ISDF-HACKERS
-aitctf{
+git_revert_command}
